@@ -95,7 +95,7 @@ p.lead {
 
 @media (min-width: 992px) {
   #sideNav {
-    background: url("/Users/jonzhao/Data_Science/Portfolio_blog/img/nav_background.jpg")
+    background: url("img/nav_background.jpg")
     text-align: center;
     position: fixed;
     top: 0;
