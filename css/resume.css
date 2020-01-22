@@ -7,7 +7,7 @@
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
-  color: #868e96;
+  color: #93C54B;
 }
 
 @media (min-width: 992px) {
@@ -95,6 +95,7 @@ p.lead {
 
 @media (min-width: 992px) {
   #sideNav {
+    background: url("/Users/jonzhao/Data_Science/Portfolio_blog/img/nav_background.jpg")
     text-align: center;
     position: fixed;
     top: 0;
@@ -107,7 +108,7 @@ p.lead {
     -ms-flex-direction: column;
     flex-direction: column;
     width: 17rem;
-    height: 100vh;
+    height: 80vh;
   }
   #sideNav .navbar-brand {
     display: -webkit-box;
@@ -152,7 +153,7 @@ p.lead {
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 75rem;
+  max-width: 70rem;
 }
 
 section.resume-section .resume-item .resume-date {
