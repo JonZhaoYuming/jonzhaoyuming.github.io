@@ -95,7 +95,7 @@ p.lead {
 
 @media (min-width: 992px) {
   #sideNav {
-    background: url("img/nav_background.jpg");
+    
     background-size: 35rem 100vh;
     text-align: center;
     position: fixed;
