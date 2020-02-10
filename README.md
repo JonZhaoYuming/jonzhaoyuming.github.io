@@ -1,1 +1,1 @@
-# [Jon Zhao's Personal Website](zhaojon.com)
+# [Jon Zhao's Personal Website](http://zhaojon.com)
